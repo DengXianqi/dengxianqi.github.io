@@ -6,8 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-# Curriculum Vitae
-
 <!-- Optional: inline embed (works on Pages; falls back to link) 
 <object data="{{ 'https://dengxianqi.github.io/files/Resume-V3.pdf' | relative_url }}" type="application/pdf" width="100%" height="900">
   <p>Your browser can’t display PDFs here.
