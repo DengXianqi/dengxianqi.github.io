@@ -8,14 +8,14 @@ redirect_from:
 ---
 # Curriculum Vitae
 
-- **Download:** [CV (PDF)]({{ 'https://dengxianqi.github.io/files/Resume-V3.pdf' | relative_url }})
-- **Open in new tab:** <a href="{{ 'https://dengxianqi.github.io/files/Resume-V3.pdf' | relative_url }}" target="_blank" rel="noopener">View PDF</a>
-
 <!-- Optional: inline embed (works on Pages; falls back to link) -->
 <object data="{{ 'https://dengxianqi.github.io/files/Resume-V3.pdf' | relative_url }}" type="application/pdf" width="100%" height="900">
   <p>Your browser can’t display PDFs here.
   <a href="{{ 'https://dengxianqi.github.io/files/Resume-V3.pdf' | relative_url }}">Download the CV</a>.</p>
 </object>
+
+- **Download:** [CV (PDF)]({{ 'https://dengxianqi.github.io/files/Resume-V3.pdf' | relative_url }})
+- **Open in new tab:** <a href="{{ 'https://dengxianqi.github.io/files/Resume-V3.pdf' | relative_url }}" target="_blank" rel="noopener">View PDF</a>
 
 <!--
 {% include base_path %}
