@@ -6,7 +6,18 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+# Curriculum Vitae
 
+- **Download:** [CV (PDF)]({{ '/files/Resume-V3.pdf' | relative_url }})
+- **Open in new tab:** <a href="{{ '/files/Resume-V3.pdf' | relative_url }}" target="_blank" rel="noopener">View PDF</a>
+
+<!-- Optional: inline embed (works on Pages; falls back to link) -->
+<object data="{{ '/files/Resume-V3.pdf' | relative_url }}" type="application/pdf" width="100%" height="900">
+  <p>Your browser can’t display PDFs here.
+  <a href="{{ '/files/Resume-V3.pdf' | relative_url }}">Download the CV</a>.</p>
+</object>
+
+<!--
 {% include base_path %}
 
 Education
@@ -61,4 +72,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
