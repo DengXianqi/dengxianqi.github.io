@@ -9,6 +9,12 @@ redirect_from:
 
 I’m Xianqi Deng, a second-year PhD student at the University at Albany (SUNY). My research explores how Large Language Models can accelerate scientific discovery. Lately, I’ve focused on masked language modeling for molecular representation learning—teaching models to capture structure–function relationships that improve prediction and design tasks. Broadly, I’m interested in self-supervised learning, generative modeling, and practical benchmarks that connect model capability to real scientific impact.
 
+Research
+======
+1. Learnable Masking for Masked Language Modeling in Scientific Area
+2. Generative Models for Nanomaterial Design and discovery
+3. Molecular Structures Derivation from IR Spectra with Seq2Seq Model
+
 <!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
