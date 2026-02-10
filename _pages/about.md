@@ -17,9 +17,9 @@ Research
 
 Publications
 ======
-*"#" First or co-first author.*
+*# First or co-first author.*
 
-*"\*" Corresponding author.*
+*\* Corresponding author.*
 
 ### 2025
 
