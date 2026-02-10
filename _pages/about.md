@@ -17,7 +17,7 @@ Research
 
 Publications
 ======
-*Note: “#” indicates equal contribution.*
+*“#” indicates equal contribution.*
 
 ### 2025
 
