@@ -27,7 +27,7 @@ Publications
    *Revolutionizing Spectroscopic Analysis Using Sequence-to-Sequence Models I: From Infrared Spectra to Molecular Structures*.  
    Under revision at ***Journal of the American Chemical Society***. ChemRxiv: [2025-n4q84](https://chemrxiv.org/engage/chemrxiv/article-details/67f601ef81d2151a029f5a2e)
 
-3. Elham Sadeghi#, **Xianqi Deng**, I Lin, Stacy M Copp*, Petko Bogdanov* <br>
+3. Elham Sadeghi#, **Xianqi Deng**, I-Hsin Lin, Stacy M Copp*, Petko Bogdanov* <br>
    *Property-Isometric Variational Autoencoders for Sequence Modeling and Design*.  
    Submitted to ***KDD 2026***. arXiv: [2509.14287](https://arxiv.org/abs/2509.14287)
 
