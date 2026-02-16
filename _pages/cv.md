@@ -32,7 +32,7 @@ redirect_from:
 }
 </style>
 
-- **Download:** [CV (PDF)]({{ 'https://dengxianqi.github.io/files/Resume-V5.pdf' | relative_url }})
+<!-- - **Download:** [CV (PDF)]({{ 'https://dengxianqi.github.io/files/Resume-V5.pdf' | relative_url }}) -->
 - **Open in new tab:** <a href="{{ 'https://dengxianqi.github.io/files/Resume-V5.pdf' | relative_url }}" target="_blank" rel="noopener">View PDF</a>
 
 <!--
