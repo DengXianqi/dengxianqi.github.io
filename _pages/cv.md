@@ -7,16 +7,16 @@ redirect_from:
   - /resume
 ---
 <!-- Optional: inline embed (works on Pages; falls back to link) 
-<object data="{{ 'https://dengxianqi.github.io/files/Resume-V3.pdf' | relative_url }}" type="application/pdf" width="100%" height="900">
+<object data="{{ 'https://dengxianqi.github.io/files/Resume-V5.pdf' | relative_url }}" type="application/pdf" width="100%" height="900">
   <p>Your browser can’t display PDFs here.
-  <a href="{{ 'https://dengxianqi.github.io/files/Resume-V3.pdf' | relative_url }}">Download the CV</a>.</p>
+  <a href="{{ 'https://dengxianqi.github.io/files/Resume-V5.pdf' | relative_url }}">Download the CV</a>.</p>
 </object> -->
 
 <div class="pdf-wrap">
   <!-- 关键：用视窗高度而不是固定像素；加 #view=FitH 提示按页宽适配 -->
   <object
     class="pdf-frame"
-    data="{{ 'https://dengxianqi.github.io/files/Resume-V3.pdf#view=FitH' | relative_url }}"
+    data="{{ 'https://dengxianqi.github.io/files/Resume-V5.pdf#view=FitH' | relative_url }}"
     type="application/pdf">
   </object>
 </div>
@@ -32,8 +32,8 @@ redirect_from:
 }
 </style>
 
-- **Download:** [CV (PDF)]({{ 'https://dengxianqi.github.io/files/Resume-V3.pdf' | relative_url }})
-- **Open in new tab:** <a href="{{ 'https://dengxianqi.github.io/files/Resume-V3.pdf' | relative_url }}" target="_blank" rel="noopener">View PDF</a>
+- **Download:** [CV (PDF)]({{ 'https://dengxianqi.github.io/files/Resume-V5.pdf' | relative_url }})
+- **Open in new tab:** <a href="{{ 'https://dengxianqi.github.io/files/Resume-V5.pdf' | relative_url }}" target="_blank" rel="noopener">View PDF</a>
 
 <!--
 {% include base_path %}
