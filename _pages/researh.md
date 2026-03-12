@@ -1,7 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Research"
-author_profile: False
-redirect_from: 
-  - /research/
+permalink: /research/
+author_profile: true
+redirect_from:
+  - /research
 ---
