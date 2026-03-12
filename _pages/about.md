@@ -11,9 +11,10 @@ I’m Xianqi Deng, a second-year PhD student at the University at Albany (SUNY).
 
 Research
 ======
-1. Learnable Masking for Masked Language Modeling in Scientific Area
-2. Generative Models for Nanomaterial Design and discovery
-3. Molecular Structures Derivation from IR Spectra with Seq2Seq Model
+1. Domain Knowledge Informed Parameter-Efficient Fine-Tuning
+2. Learnable Masking for Masked Language Modeling in Scientific Area
+3. Generative Models for Nanomaterial Design and discovery
+4. Molecular Structures Derivation from IR Spectra with Seq2Seq Model
 
 Publications
 ======
