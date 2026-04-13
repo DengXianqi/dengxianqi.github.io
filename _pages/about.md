@@ -24,7 +24,7 @@ Publications
 
 ### 2026
 
-<p style="text-indent: 2em;">
+<p style="text-indent: 10em;">
 Siqi Chen#, Zhiqiang Wang#, Yili Shen, **Xianqi Deng**, Xi Cheng, Cheng-Wei Ju, Jun Yi, Guo Ling, Dieaa Alhmoud, Hui Guan\*, Zhou Lin\*
 <br>
 <em>Transferable FB-GNN-MBE Framework for Potential Energy Surfaces: Data-Adaptive Transfer Learning in Deep Learned Many-Body Expansion Theory</em><br>
