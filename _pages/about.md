@@ -26,7 +26,7 @@ Publications
 
 1. Siqi Chen#, Zhiqiang Wang#, Yili Shen, **Xianqi Deng**, Xi Cheng, Cheng-Wei Ju, Jun Yi, Guo Ling, Dieaa Alhmoud, Hui Guan\*, Zhou Lin\* <br>
    *Transferable FB-GNN-MBE Framework for Potential Energy Surfaces: Data-Adaptive Transfer Learning in Deep Learned Many-Body Expansion Theory*.<br>
-   Under review at ***The Journal of Chemical Physics***. arXiv: [2604.09320](https://arxiv.org/abs/2604.09320)
+   Under review with ***The Journal of Chemical Physics***. arXiv: [2604.09320](https://arxiv.org/abs/2604.09320)
 
 ### 2025 
 
