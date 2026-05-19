@@ -44,7 +44,7 @@ Publications
 
 1. Siqi Chen#, Zhiqiang Wang#, **Xianqi Deng#**, Yili Shen#, Cheng-Wei Ju, Jun Yi, Lin Xiong, Guo Ling, Dieaa Alhmoud, Hui Guan\*, Zhou Lin\* <br>
    *Integrating Graph Neural Networks and Many-Body Expansion Theory for Potential Energy Surfaces*.<br>
-   ***NeurIPS 2024 AI4Mat Workshop (Spotlight)***. arXiv: [2411.01578](https://arxiv.org/abs/2411.01578)
+   ***NeurIPS 2024 AI4Mat Workshop Spotlight***. arXiv: [2411.01578](https://arxiv.org/abs/2411.01578)
 
 Service
 ======
