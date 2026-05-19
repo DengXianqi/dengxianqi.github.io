@@ -29,7 +29,7 @@ Publications
    Under review with ***The Journal of Chemical Physics***. arXiv: [2604.09320](https://arxiv.org/abs/2604.09320)
 2. Elham Sadeghi#, I-Hsin Lin, **Xianqi Deng**, Stacy M Copp\*, Petko Bogdanov\* <br>
    *Geometry-Preserving Supervised Biological Sequence Design*.<br>
-   KDD 2026 AI4Sciences Track Poster.
+   ***KDD 2026 AI4Sciences Track Poster***.
 
 ### 2025 
 
