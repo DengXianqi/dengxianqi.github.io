@@ -33,7 +33,7 @@ Publications
 
 ### 2025 
 
-1. Ethan French#, Siqi Chen#, **Xianqi Deng#**, Cheng-Wei Ju, Xi Cheng, Lijun Zhang, Xiao Liu, Hui Guan\*, Zhou Lin\* <br>
+1. Ethan French#, **Xianqi Deng**, Siqi Chen, Cheng-Wei Ju, Xi Cheng, Lijun Zhang, Xiao Liu, Hui Guan\*, Zhou Lin\* <br>
    *Revolutionizing Spectroscopic Analysis Using Sequence-to-Sequence Models I: From Infrared Spectra to Molecular Structures*.<br>
    Under revision at ***Journal of the American Chemical Society***. ChemRxiv: [2025-n4q84](https://chemrxiv.org/engage/chemrxiv/article-details/67f601ef81d2151a029f5a2e)
 2. Elham Sadeghi#, **Xianqi Deng**, I-Hsin Lin, Stacy M Copp\*, Petko Bogdanov\* <br>
