@@ -25,8 +25,8 @@ Publications
 ### 2026
 
 1. Siqi Chen#, Zhiqiang Wang#, Yili Shen, **Xianqi Deng**, Xi Cheng, Cheng-Wei Ju, Jun Yi, Guo Ling, Dieaa Alhmoud, Hui Guan\*, Zhou Lin\* <br>
-   *Transferable FB-GNN-MBE Framework for Potential Energy Surfaces: Data-Adaptive Transfer Learning in Deep Learned Many-Body Expansion Theory*.<br>
-   Under review with ***The Journal of Chemical Physics***. arXiv: [2604.09320](https://arxiv.org/abs/2604.09320)
+   *Transferable FB-GNN-MBE Framework for Potential Energy Surfaces: Data-Adaptive Transfer Learning in Deep Learned Many-Body Expansion Theory*. arXiv: [2604.09320](https://arxiv.org/abs/2604.09320)<br>
+   Under review with ***The Journal of Chemical Physics***. 
 2. Elham Sadeghi#, I-Hsin Lin, **Xianqi Deng**, Stacy M Copp\*, Petko Bogdanov\* <br>
    *Geometry-Preserving Supervised Biological Sequence Design*.<br>
    ***KDD 2026 AI4Sciences Track Poster***.
@@ -34,17 +34,16 @@ Publications
 ### 2025 
 
 1. Ethan French#, Siqi Chen#, **Xianqi Deng#**, Cheng-Wei Ju, Xi Cheng, Lijun Zhang, Xiao Liu, Hui Guan\*, Zhou Lin\* <br>
-   *Revolutionizing Spectroscopic Analysis Using Sequence-to-Sequence Models I: From Infrared Spectra to Molecular Structures*.<br>
-   Under revision at ***Journal of the American Chemical Society***. ChemRxiv: [2025-n4q84](https://chemrxiv.org/engage/chemrxiv/article-details/67f601ef81d2151a029f5a2e)
+   *Revolutionizing Spectroscopic Analysis Using Sequence-to-Sequence Models I: From Infrared Spectra to Molecular Structures*. ChemRxiv: [2025-n4q84](https://chemrxiv.org/engage/chemrxiv/article-details/67f601ef81d2151a029f5a2e)<br>
+   Under revision at ***Journal of the American Chemical Society***. 
 2. Elham Sadeghi#, **Xianqi Deng**, I-Hsin Lin, Stacy M Copp\*, Petko Bogdanov\* <br>
-   *Property-Isometric Variational Autoencoders for Sequence Modeling and Design*.<br>
-   arXiv: [2509.14287](https://arxiv.org/abs/2509.14287)
+   *Property-Isometric Variational Autoencoders for Sequence Modeling and Design*. arXiv: [2509.14287](https://arxiv.org/abs/2509.14287)<br>
 
 ### 2024 
 
 1. Siqi Chen#, Zhiqiang Wang#, **Xianqi Deng#**, Yili Shen#, Cheng-Wei Ju, Jun Yi, Lin Xiong, Guo Ling, Dieaa Alhmoud, Hui Guan\*, Zhou Lin\* <br>
-   *Integrating Graph Neural Networks and Many-Body Expansion Theory for Potential Energy Surfaces*.<br>
-   ***NeurIPS 2024 AI4Mat Workshop Spotlight***. arXiv: [2411.01578](https://arxiv.org/abs/2411.01578)
+   *Integrating Graph Neural Networks and Many-Body Expansion Theory for Potential Energy Surfaces*. arXiv: [2411.01578](https://arxiv.org/abs/2411.01578)<br>
+   ***NeurIPS 2024 AI4Mat Workshop Spotlight***. 
 
 Service
 ======
