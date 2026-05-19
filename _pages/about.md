@@ -27,6 +27,9 @@ Publications
 1. Siqi Chen#, Zhiqiang Wang#, Yili Shen, **Xianqi Deng**, Xi Cheng, Cheng-Wei Ju, Jun Yi, Guo Ling, Dieaa Alhmoud, Hui Guan\*, Zhou Lin\* <br>
    *Transferable FB-GNN-MBE Framework for Potential Energy Surfaces: Data-Adaptive Transfer Learning in Deep Learned Many-Body Expansion Theory*.<br>
    Under review with ***The Journal of Chemical Physics***. arXiv: [2604.09320](https://arxiv.org/abs/2604.09320)
+2. Elham Sadeghi#, I-Hsin Lin, **Xianqi Deng**, Stacy M Copp\*, Petko Bogdanov\* <br>
+   *Geometry-Preserving Supervised Biological Sequence Design*.<br>
+   KDD 2026 AI4Sciences Track Poster.
 
 ### 2025 
 
@@ -35,7 +38,7 @@ Publications
    Under revision at ***Journal of the American Chemical Society***. ChemRxiv: [2025-n4q84](https://chemrxiv.org/engage/chemrxiv/article-details/67f601ef81d2151a029f5a2e)
 2. Elham Sadeghi#, **Xianqi Deng**, I-Hsin Lin, Stacy M Copp\*, Petko Bogdanov\* <br>
    *Property-Isometric Variational Autoencoders for Sequence Modeling and Design*.<br>
-   Submitted to ***KDD 2026***. arXiv: [2509.14287](https://arxiv.org/abs/2509.14287)
+   arXiv: [2509.14287](https://arxiv.org/abs/2509.14287)
 
 ### 2024 
 
